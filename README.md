@@ -1,4 +1,4 @@
-# Hi, I'm Ash 👋
+# Hi, I'm Prateek's roomate aka baap 👋
 
 ## Competitive Programmer | CSE Student
 
@@ -11,7 +11,3 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue)](https://codeforces.com)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com)
-
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashrad&show_icons=true)
