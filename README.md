@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ash 👋
 
-<!--
-**ubermensch177/ubermensch177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Competitive Programmer | CSE Student
 
-Here are some ideas to get you started:
+- 🌱 Learning Data Structures & Algorithms
+- 💻 Solving problems on Codeforces and LeetCode
+- 🚀 Interested in Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Profiles
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue)](https://codeforces.com)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com)
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashrad&show_icons=true)
