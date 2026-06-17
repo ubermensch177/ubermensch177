@@ -1,4 +1,4 @@
-# Hi, I'm Prateek's roomate aka baap 👋
+# Hi, I'm ubermensch177👋
 
 ## Competitive Programmer | CSE Student
 
