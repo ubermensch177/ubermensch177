@@ -1,4 +1,4 @@
-# Hi, I'm ubermensch177👋
+# Hi, I'm Ashtithwa 👋
 
 ## Competitive Programmer | CSE Student
 
