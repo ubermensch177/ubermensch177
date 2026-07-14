@@ -8,6 +8,6 @@
 
 ### Profiles
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue)](https://codeforces.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue)](https://codeforces.com/profile/ShadowMonarch666)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/Ubermensch666/)
