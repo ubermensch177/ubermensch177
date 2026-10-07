@@ -1,4 +1,4 @@
-# Hi, I'm Ash 👋
+# Hi, I'm Ashtithwa Pradhan 👋
 
 ### Software Developer | Open Source Contributor | Competitive Programmer
 
